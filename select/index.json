@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "DOWNTOWN GIRL",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-02-07T09:46:02.168291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Downtown Girl",
+      "artist": "Hot Chelle Rae",
+      "has_synced": true,
+      "path": "select/01_Downtown_Girl_Hot_Chelle_Rae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Downtown Girl",
+      "artist": "The Irish Descendants",
+      "has_synced": true,
+      "path": "select/02_Downtown_Girl_The_Irish_Descendants.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Downtown Girl",
+      "artist": "Hot Chelle Rae",
+      "has_synced": true,
+      "path": "select/03_Downtown_Girl_Hot_Chelle_Rae.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Downtown Girl",
+      "artist": "Dominic Donner",
+      "has_synced": true,
+      "path": "select/04_Downtown_Girl_Dominic_Donner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Downtown Girl",
+      "artist": "Rocstaryoshi",
+      "has_synced": true,
+      "path": "select/05_Downtown_Girl_Rocstaryoshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Downtown Girl (Album Version)",
+      "artist": "The Irish Descendants",
+      "has_synced": false,
+      "path": "select/06_Downtown_Girl_(Album_Version)_The_Irish_Descendants.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOWNTOWN GIRL",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_DOWNTOWN_GIRL_パスピエ.txt"
+    }
+  ]
+}
